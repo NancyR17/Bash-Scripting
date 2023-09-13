@@ -6,3 +6,4 @@ NAME="Nancy"
 echo "$NAME"
 echo "My name is" ${NAME} Taneja
 echo "${NAME}
+echo "$(date -u)"
